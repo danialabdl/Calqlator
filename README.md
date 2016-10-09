@@ -1,2 +1,2 @@
 # Calqlator
-A visual studio c# simple calculator
+A c# simple calculator
