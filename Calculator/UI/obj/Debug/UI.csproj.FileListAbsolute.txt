@@ -1,0 +1,11 @@
+E:\projects\Calculator\UI\bin\Debug\UI.exe.config
+E:\projects\Calculator\UI\bin\Debug\UI.exe
+E:\projects\Calculator\UI\bin\Debug\UI.pdb
+E:\projects\Calculator\UI\bin\Debug\BLL.dll
+E:\projects\Calculator\UI\bin\Debug\BLL.pdb
+E:\projects\Calculator\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\projects\Calculator\UI\obj\Debug\UI.Properties.Resources.resources
+E:\projects\Calculator\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\projects\Calculator\UI\obj\Debug\UI.exe
+E:\projects\Calculator\UI\obj\Debug\UI.pdb
+E:\projects\Calculator\UI\obj\Debug\UI.frmCalculator.resources

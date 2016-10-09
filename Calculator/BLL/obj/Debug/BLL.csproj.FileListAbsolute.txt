@@ -1,0 +1,5 @@
+E:\projects\Calculator\BLL\bin\Debug\BLL.dll
+E:\projects\Calculator\BLL\bin\Debug\BLL.pdb
+E:\projects\Calculator\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\projects\Calculator\BLL\obj\Debug\BLL.dll
+E:\projects\Calculator\BLL\obj\Debug\BLL.pdb
